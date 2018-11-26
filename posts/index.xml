@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Keenahn Jung</title>
+    <title>Posts on Keenahn Tiberius Jung</title>
     <link>https://keenahn.github.io/posts/</link>
-    <description>Recent content in Posts on Keenahn Jung</description>
+    <description>Recent content in Posts on Keenahn Tiberius Jung</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
@@ -16,10 +16,25 @@
       <pubDate>Sun, 25 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>https://keenahn.github.io/posts/first-post/</guid>
-      <description> Hello world </description>
+      <description> Hello world   var chart = c3.generate({ bindto: &#39;#chart&#39;, data: { columns: [ [&#39;data1&#39;, 30, 200, 100, 400, 150, 250], [&#39;data2&#39;, 50, 20, 10, 40, 15, 25] ] } });  </description>
       <content type="html"><![CDATA[
 
 <h1 id="hello-world">Hello world</h1>
+
+<div id="chart"></div>
+
+<script>
+  var chart = c3.generate({
+    bindto: '#chart',
+    data: {
+      columns: [
+        ['data1', 30, 200, 100, 400, 150, 250],
+        ['data2', 50, 20, 10, 40, 15, 25]
+      ]
+    }
+});
+
+</script>
 ]]></content>
     </item>
     
