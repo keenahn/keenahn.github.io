@@ -34,3 +34,6 @@ Temporary Items
 *.sublime-project
 *.sublime-workspace
 *.orig
+
+public
+resources
