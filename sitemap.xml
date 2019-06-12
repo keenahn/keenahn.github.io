@@ -9,11 +9,6 @@
   
   <url>
     <loc>https://keenahn.github.io/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://keenahn.github.io/</loc>
     <lastmod>2018-11-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -21,6 +16,11 @@
   <url>
     <loc>https://keenahn.github.io/posts/</loc>
     <lastmod>2018-11-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://keenahn.github.io/index.html</loc>
     <priority>0</priority>
   </url>
   
